@@ -409,45 +409,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Abp\Framework\scripts\abp.js" />
-    <Content Include="Abp\Framework\scripts\abp.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.blockUI.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.blockUI.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.jquery.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.jquery.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.jtable.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.jtable.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.moment.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.moment.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.signalr-client.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.signalr-client.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.signalr.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.signalr.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.spin.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.spin.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.sweet-alert.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.sweet-alert.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.toastr.js" />
-    <Content Include="Abp\Framework\scripts\libs\abp.toastr.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\angularjs\abp.ng.js" />
-    <Content Include="Abp\Framework\scripts\libs\angularjs\abp.ng.min.js" />
-    <Content Include="Abp\Framework\scripts\libs\requirejs\plugins\service.js" />
-    <Content Include="Abp\Framework\scripts\libs\requirejs\plugins\service.min.js" />
-    <Content Include="Abp\Framework\scripts\utils\ie10fix.js" />
-    <Content Include="Abp\Framework\scripts\utils\ie10fix.min.js" />
-    <Content Include="Abp\Framework\styles\abp.css" />
-    <Content Include="Abp\Framework\styles\abp.min.css" />
-    <Content Include="Abp\Framework\styles\abp.mixings.css" />
-    <Content Include="Abp\Framework\styles\abp.mixings.min.css" />
-    <Content Include="Abp\Framework\styles\utils\ie10fix.css" />
     <Content Include="App_Data\WebFileSystem.Application.xml" />
     <Content Include="App_Data\WebFileSystem.WebApi.xml" />
     <Content Include="Global.asax" />
     <Content Include="log4net.config" />
-    <Content Include="Abp\Framework\styles\abp.mixings.less" />
-    <Content Include="Abp\Framework\styles\abp.mixings.css.map" />
-    <Content Include="Abp\Framework\styles\abp.less" />
-    <Content Include="Abp\Framework\styles\abp.css.map" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -502,11 +467,6 @@
   <ItemGroup />
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
-  </ItemGroup>
-  <ItemGroup>
-    <TypeScriptCompile Include="Abp\Framework\scripts\abp.d.ts" />
-    <TypeScriptCompile Include="Abp\Framework\scripts\libs\abp.jquery.d.ts" />
-    <TypeScriptCompile Include="Abp\Framework\scripts\libs\abp.signalr.d.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
