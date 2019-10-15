@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebFileSystem.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:WebFileSystem.Swagger.SwaggerFormDataMethodAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:WebFileSystem.Swagger.SwaggerFormDataMethodAttribute.#ctor(System.Boolean[],System.String[],System.String[],WebFileSystem.Swagger.SwaggerFormDataMethodAttributeType[])">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
