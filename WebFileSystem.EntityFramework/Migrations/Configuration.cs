@@ -10,7 +10,6 @@ namespace WebFileSystem.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "Admin";
         }
 
         protected override void Seed(WebFileSystem.EntityFramework.WebFileSystemDbContext context)
